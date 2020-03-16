@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal">
+
+    <TextView
+        android:id="@+id/audioName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingBottom="7sp"
+        android:paddingTop="5sp"
+        android:text=""
+        android:textAppearance="?attr/textAppearanceListItem"
+        android:maxLines="1"
+        android:textSize="14sp" />
+
+</LinearLayout>

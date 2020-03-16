@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "834657888486",
+    "firebase_url": "https://audio-player-263504.firebaseio.com",
+    "project_id": "audio-player-263504",
+    "storage_bucket": "audio-player-263504.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:834657888486:android:5093a89aa5073c059f3327",
+        "android_client_info": {
+          "package_name": "com.example.audio_player"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "834657888486-vemergqd96dq6lvml1lalro8kmct3di8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.audio_player",
+            "certificate_hash": "34097298af14d1ebb29edd079d1bc4ebbb4cf30e"
+          }
+        },
+        {
+          "client_id": "834657888486-dd8u1ef2t00riucr3g86ajktgjlu16np.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDStqgp75UShF0jKKFpK-ZH7UlY602E5MU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "834657888486-dd8u1ef2t00riucr3g86ajktgjlu16np.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

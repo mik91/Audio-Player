@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme.Base" parent="Theme.AppCompat">
+        <item name="colorPrimary">@color/color_primary</item>
+        <item name="colorPrimaryDark">@color/color_primary_dark</item>
+        <item name="colorAccent">@color/color_accent</item>
+        <item name="android:spinnerItemStyle">@style/SpinnerItem</item>
+        <item name="android:colorControlActivated">#c51162</item>
+    </style>
+
+    <style name="SpinnerItem" parent="@android:style/Widget.TextView">
+        <item name="android:paddingRight">@dimen/activity_margin</item>
+    </style>
+    <color name="color_primary">#1C1A1A</color>
+    <color name="color_primary_dark">#1C1A1A</color>
+    <color name="color_accent">@color/color_primary</color>
+    <color name="color_orange">#FF5722</color>
+    <color name="color_white">#FFFFFF</color>
+</resources>
